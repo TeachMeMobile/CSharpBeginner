@@ -2,9 +2,9 @@
 Learn C# from scratch. We'll go over the fundamentals
 
 ## Accounts
-You can follow along or connect by using the account below. To watch the live stream, check out the Twitch Channel. [View the Livestream on Twitch](https://www.twitch.tv/teachmemobile)
+You can follow along or connect by using the accounts below. To watch the live stream, check out the Twitch Channel. [View the Livestream on Twitch](https://www.twitch.tv/teachmemobile)
 
-If you want to follow the facebook page, click the link below. [Follow on Facebook](https://www.facebook.com/TeachMeMobile)
+If you want to follow the facebook page, you can do that here: [Follow on Facebook](https://www.facebook.com/TeachMeMobile)
 
 You can follow on twitter by clicking this link: [Follow on Twitter](https://twitter.com/TeachMeMobile1)
 
